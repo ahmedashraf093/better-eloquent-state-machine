@@ -1,5 +1,5 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/ahmedashraf093/better-eloquent-state-machines.svg?style=flat-square)](https://packagist.org/packages/ahmedashraf093/better-eloquent-state-machine)
-[![Total Downloads](https://img.shields.io/packagist/dt/ahmedashraf093/better-eloquent-state-machines.svg?style=flat-square)](https://packagist.org/packages/ahmedashraf093/better-eloquent-state-machine)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/ahmedashraf093/better-eloquent-state-machine.svg?style=flat-square)](https://packagist.org/packages/ahmedashraf093/better-eloquent-state-machine)
+[![Total Downloads](https://img.shields.io/packagist/dt/ahmedashraf093/better-eloquent-state-machine.svg?style=flat-square)](https://packagist.org/packages/ahmedashraf093/better-eloquent-state-machine)
 
 ![Eloquent State Machine](https://banners.beyondco.de/Eloquent%20State%20Machine.jpeg?theme=dark&packageManager=composer+require&packageName=ahmedashraf093%2Flaravel-eloquent-state-machines&pattern=circuitBoard&style=style_2&description=A+better+state+machine+for+your+eloquent+models+with+states&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
@@ -85,16 +85,16 @@ $salesOrder->status()->history()->get();
 
 <!-- ## Demo
 
-You can check a demo and examples [here](https://github.com/ahmedashraf093/better-eloquent-state-machines-demo)
+You can check a demo and examples [here](https://github.com/ahmedashraf093/better-eloquent-state-machine-demo)
 
-![demo](https://github.com/ahmedashraf093/better-eloquent-state-machines/raw/master/demo.gif) -->
+![demo](https://github.com/ahmedashraf093/better-eloquent-state-machine/raw/master/demo.gif) -->
 
 ## Installation
 
 You can install the package via composer:
 
 ```bash
-composer require ahmedashraf093/better-eloquent-state-machines
+composer require ahmedashraf093/better-eloquent-state-machine
 ```
 
 Next, you must export the package migrations
