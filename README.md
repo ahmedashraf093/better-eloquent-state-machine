@@ -83,11 +83,11 @@ $salesOrder->status()->history()->get();
 - Allow to validate state transitions
 - Allow to add hooks/callbacks before/after state transitions
 
-<!-- ## Demo
+## Demo
 
 You can check a demo and examples [here](https://github.com/ahmedashraf093/better-eloquent-state-machine-demo)
 
-![demo](https://github.com/ahmedashraf093/better-eloquent-state-machine/raw/master/demo.gif) -->
+![demo](https://github.com/ahmedashraf093/better-eloquent-state-machine/raw/master/demo.gif)
 
 ## Installation
 
@@ -476,17 +476,17 @@ public function transitions(): array
 
 ### Get available transitions
 
-using the `->availableTransitions()` method you can get all the available transitions from the current state with all validation applied.
+using the `->stateMachine->availableTransitions()` method you can get all the available transitions from the current state with all validation applied.
 
 ```php
-$salesOrder->status()->availableTransitions(); // ['approved', 'declined']
+$salesOrder->status()->stateMachine->availableTransitions(); // ['approved', 'declined']
 ```
 
 different validations can be applied to the same transition depending on the responsible for the transition.
 
 ```php
 $user = User::first();
-$salesOrder->status()->availableTransitions($user); // ['approved']
+$salesOrder->status()->stateMachine->availableTransitions($user); // ['approved']
 ```
 
 
