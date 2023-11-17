@@ -1,7 +1,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ahmedashraf093/better-eloquent-state-machine.svg?style=flat-square)](https://packagist.org/packages/ahmedashraf093/better-eloquent-state-machine)
 [![Total Downloads](https://img.shields.io/packagist/dt/ahmedashraf093/better-eloquent-state-machine.svg?style=flat-square)](https://packagist.org/packages/ahmedashraf093/better-eloquent-state-machine)
 
-![Eloquent State Machine](https://banners.beyondco.de/Eloquent%20State%20Machine.jpeg?theme=dark&packageManager=composer+require&packageName=ahmedashraf093%2Flaravel-eloquent-state-machines&pattern=circuitBoard&style=style_2&description=A+better+state+machine+for+your+eloquent+models+with+states&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
+![Eloquent State Machine](https://banners.beyondco.de/Eloquent%20State%20Machine.jpeg?theme=dark&packageManager=composer+require&packageName=ahmedashraf093%2Flaravel-eloquent-state-machine&pattern=circuitBoard&style=style_2&description=A+better+state+machine+for+your+eloquent+models+with+states&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg)
 
 
 ## Introduction
