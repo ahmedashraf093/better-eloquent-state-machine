@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This package provides a very simple and easy API to reliably manage your state machines withing your eloquent models all in one file. using a simple one liners to do all the validation, logging and execution of your state transitions.
+This package provides a very simple and easy API to reliably manage your [state machines](https://en.wikipedia.org/wiki/Finite-state_machine) (the ever changing state of your models) within your eloquent models all in one file. using a simple one liners to do all the validation, logging and execution of your state transitions.
 
 > based on the work of [asantibanez](https://github.com/asantibanez)'s state machine [laravel-eloquent-state-machines](https://github.com/asantibanez/laravel-eloquent-state-machines)
 
